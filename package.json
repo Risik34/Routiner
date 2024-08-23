@@ -1,0 +1,15 @@
+{
+  "name": "Routiner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,ts,jsx,tsx,json,css,scss,md}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
